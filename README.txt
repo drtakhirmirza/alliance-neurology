@@ -1,1 +1,4 @@
-Alliance Neurology v5 — homepage stock photograph removed. Neurophysiology waveform illustration retained. Open index.html in a browser. Demo only; do not enter patient information.
+Alliance Neurology Version 7 — Scheduling demo
+Open index.html then Operations Workspace.
+Week calendar, rescheduling, specialist conflict checks, unavailability blocks, duration.
+Local browser storage only; fictional data. Not for PHI or clinical use.

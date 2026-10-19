@@ -13,3 +13,5 @@ body{min-height:100vh}main{min-height:65vh}.page-intro{padding:65px 0 26px;backg
 
 /* v5: no stock photography on home page */
 .split-image{grid-template-columns:1fr;max-width:850px;margin-left:auto;margin-right:auto}
+
+.workspace-ribbon{background:#e7f6f8;color:#0b6477;font-size:13px;padding:9px 0}.workspace-ribbon .wrap{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}.workspace-ribbon a{color:#086c85;font-weight:800}
