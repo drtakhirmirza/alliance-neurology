@@ -15,3 +15,7 @@ body{min-height:100vh}main{min-height:65vh}.page-intro{padding:65px 0 26px;backg
 .split-image{grid-template-columns:1fr;max-width:850px;margin-left:auto;margin-right:auto}
 
 .workspace-ribbon{background:#e7f6f8;color:#0b6477;font-size:13px;padding:9px 0}.workspace-ribbon .wrap{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}.workspace-ribbon a{color:#086c85;font-weight:800}
+
+/* v16 responsive navigation */
+.menu-toggle{display:none;border:1px solid #c7dce4;background:white;color:#102a42;border-radius:9px;padding:11px 15px;font-weight:700;font-size:16px;cursor:pointer}.footer-contact a{color:#d4f6f3}.footer-note{font-size:12px;max-width:330px}.about-copy{max-width:850px}.about-copy p{font-size:17px;line-height:1.8;color:#405667}
+@media(max-width:900px){.nav{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}.menu-toggle{display:block;margin-left:auto}.nav .links{display:none!important;flex-basis:100%;width:100%;flex-direction:column;align-items:stretch;gap:0;background:white;border-top:1px solid #d9e6ea;padding:10px 0;box-shadow:0 12px 22px #102a4212}.nav .links.is-open{display:flex!important}.nav .links a{display:block;font-size:16px;padding:13px 15px;border-bottom:1px solid #e8eef0}.nav .links a.btn{margin:8px 12px;text-align:center}.nav .brand{min-width:0}.nav .brand b{font-size:18px}}
