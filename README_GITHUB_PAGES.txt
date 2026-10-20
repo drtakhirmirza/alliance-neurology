@@ -1,6 +1,5 @@
-ALIANS Neurology v17 - public website demo only.
-Upload the extracted files to the ROOT of a GitHub repository (index.html must be at repository root).
-GitHub Pages: Settings > Pages > Deploy from a branch > main / (root).
-Forms are browser-only demonstration forms; they do not send email or persist on a server.
-Python server and internal operations workspace are intentionally excluded.
-Do not enter patient information.
+ALIANS Neurology Version 19 — GitHub Pages public website plus browser-local Operations demonstration.
+Publish the CONTENTS of this folder at the repository root.
+Operations: login.html -> workspace.html.
+DEMO credentials: username demo, password AliansDemo2026!
+IMPORTANT: The credentials are visible in the published JavaScript and provide NO real security. Do not enter or store any real patient, staff, or confidential data. A real login needs a hosted backend, secure identity provider, and appropriate data protections.
